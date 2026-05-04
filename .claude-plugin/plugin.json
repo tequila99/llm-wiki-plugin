@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "llm-wiki",
+  "version": "0.1.0",
+  "description": "Personal second brain wiki powered by Claude. Ingest sources, synthesize knowledge pages, query and lint your Obsidian vault.",
+  "author": {
+    "name": "Ivan Milovanov",
+    "url": "https://github.com/tequila99"
+  },
+  "repository": "https://github.com/tequila99/llm-wiki-plugin",
+  "license": "MIT",
+  "keywords": ["wiki", "second-brain", "obsidian", "knowledge-base", "zettelkasten"]
+}
